@@ -17,7 +17,7 @@ To install the project gems execute:.
     
 To run the project execute:
 
-    $ rackup -p 80
+    $ rackup -p <PORT>
 
 
 ## Contributing
