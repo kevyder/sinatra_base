@@ -1,4 +1,4 @@
-# sinatra_base
+# Sinatra Base
 A base for your projects on Sinatra
 
 ## Usage
@@ -14,7 +14,7 @@ And execute:
 To install the project gems execute:.
 
     $ bundle install
-    
+
 To run the project execute:
 
     $ rackup -p <PORT>
