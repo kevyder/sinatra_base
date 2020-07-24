@@ -1,29 +1,42 @@
 # Sinatra Base
+
 A base for your projects on Sinatra
 
 ## Usage
 
 Clone this repository executing:
 
-    $ git clone https://github.com/kevyder/sinatra_base.git
+```bash
+git clone https://github.com/kevyder/sinatra_base.git
+```
 
 And execute:
 
-    $ cd sinatra_base
+```bash
+cd sinatra_base
+```
 
 To install the project gems execute:.
 
-    $ bundle install
+```bash
+bundle install
+```
 
 To run the project execute:
 
-    $ rackup -p <PORT>
+```bash
+rackup -p <PORT>
+```
 
+## Install pre-commit
+
+```bash
+pre-commit install
+```
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/kevyder/sinatra_base.
-
+Bug reports and pull requests are welcome on GitHub at <https://github.com/kevyder/sinatra_base>.
 
 ## License
 
